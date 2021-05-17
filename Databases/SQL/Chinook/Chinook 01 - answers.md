@@ -8,15 +8,7 @@ Exercises with one table at a time
 
 ## 1.1
 
-Open the database server on your computer:
-
- 	(localdb)\mssqllocaldb
-
-You can do this from Visual Studio and select *SQL Server Object Explorer*.
-
-Option: use the program *SQL Management Studio*. Choose File => Connect Object Explorer.
-
-Run the Chinook script to create the music database
+Run the script "Chinook - Script to create database.sql" to create the music database
 
 ## 1.2
 
